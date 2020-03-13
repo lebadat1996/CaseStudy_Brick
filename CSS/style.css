@@ -1,0 +1,41 @@
+#style {
+    margin-top: 0px;
+    margin-left: 400px;
+}
+
+#canvas {
+    background-color: lightskyblue;
+}
+
+#title {
+    margin-left: 460px;
+    color: blue;
+}
+
+p {
+    margin-left: 600px;
+    color: crimson;
+}
+
+#WinOrLose {
+    color: green;
+    margin-left: 160px;
+}
+
+#color {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+    color: burlywood;
+    width: 80px;
+    height: 30px;
+}
+
+#blue {
+    background-color: blue;
+    color: blanchedalmond;
+    width: 80px;
+    height: 30px;
+}
